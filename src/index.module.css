@@ -1,0 +1,27 @@
+.wrapper {
+    padding: 8px 13px;
+    box-sizing: border-box;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart {
+    display: flex;
+    align-items: center;
+}
+
+.average {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    margin-right: 21px;
+}
+
+.number {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
